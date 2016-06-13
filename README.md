@@ -1,7 +1,7 @@
 # day-2
 To run program type 
 
-ruby generator_receipt.rb input_file_name  
+ruby generate_receipt.rb input_file_name  
 
 in your terminal
 
