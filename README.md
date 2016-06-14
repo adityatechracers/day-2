@@ -14,4 +14,4 @@ input3.txt
 
 for example
 
-ruby generate.rb input1.txt
+ruby generate_receipt.rb input1.txt
