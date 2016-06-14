@@ -10,7 +10,7 @@ class RunTax
   end
 
   def input(filename)
-    file = Input.new(filename)
+    file_arry = Input.new(filename)
   end
 
   def parse(file, exclusions)
